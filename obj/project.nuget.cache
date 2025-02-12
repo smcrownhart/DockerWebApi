@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkl4yyqubJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smcro\\source\\repos\\DockerWebApi\\DockerWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smcro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\smcro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
